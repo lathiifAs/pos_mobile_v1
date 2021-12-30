@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999805783044",
+    "project_id": "pointofsales-c8f9c",
+    "storage_bucket": "pointofsales-c8f9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999805783044:android:5bef7477ecb5362743b951",
+        "android_client_info": {
+          "package_name": "com.example.pointofsales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999805783044-u7kiotuufkqah3b869l9bfcilfaup5bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8_lenGQkoRFeAQC05FntmtFVExWpYlWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999805783044-u7kiotuufkqah3b869l9bfcilfaup5bf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
